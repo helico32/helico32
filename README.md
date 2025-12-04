@@ -4,6 +4,5 @@
 (mid january - mid april in UX/UI design and/or frontend)
 
 ### Projects I'm working on in my free time
-- My portfolio (70% done)
-- An ecommerce website that's more than what it seems
-- Psychologically prepping for a Hackathlon 
+- My portfolio (90% done)
+- Learning Python & Django
