@@ -5,4 +5,5 @@
 
 ### Projects I'm working on in my free time
 - My portfolio (90% done)
+- Art recommendation app (design in Figma 100% done, code in React 0%)
 - Learning Python & Django
