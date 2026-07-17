@@ -8,4 +8,4 @@
 - Learning Python & Django
 - Small projects in Python
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,git,typescript,git,react,vite,vercel,nodejs,express,firebase,tailwind,sass,figma,wordpress)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,git,typescript,git,react,vite,vercel,nodejs,express,firebase,tailwind,sass,figma,wordpress&perline=8)](https://skillicons.dev)
