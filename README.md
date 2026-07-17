@@ -8,4 +8,8 @@
 - Learning Python & Django
 - Small projects in Python
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,sass,js,react,typescript,vite,vercel,nodejs,express,figma,wordpress&perline=5)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,sass,js,react,typescript,vite,vercel,nodejs,express,firebase,figma,wordpress&perline=5" />
+  </a>
+</p>
