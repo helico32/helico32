@@ -7,3 +7,5 @@
 - Art recommendation app (design in Figma 100% done, code in React 0%)
 - Learning Python & Django
 - Small projects in Python
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,sass,js,react,typescript,vite,vercel,nodejs,express,figma,wordpress&perline=5)](https://skillicons.dev)
