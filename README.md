@@ -10,4 +10,4 @@
 
 ## Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,git,typescript,git,react,vite,vercel,nodejs,express,firebase,tailwind,sass,figma,wordpress&perline=8)](https://skillicons.dev)
-& UI/UI design and marketing stuff
+& UX/UI design and marketing stuff
