@@ -1,7 +1,6 @@
 [![wakatime](https://wakatime.com/badge/user/4f0ea564-1e9f-43a6-a6e3-fd5f439ae0ab.svg)](https://wakatime.com/@4f0ea564-1e9f-43a6-a6e3-fd5f439ae0ab) of code & design since July 15, 2025
 
-## Currently in an internship in UX design in Brussels
-### => Looking for work in Belgium as Product designer or UX/UI with frontend skills<=
+## Looking for work in Belgium as Product designer or UX/UI with frontend skills
 
 ## Projects I'm working on in my free time
 - What to Eat: anti food waste app
