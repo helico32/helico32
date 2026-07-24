@@ -9,5 +9,5 @@
 - My Art Gallery: Art recommendation app (design in Figma 100% done, code in React 0%)
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,git,typescript,git,react,vite,vercel,nodejs,express,firebase,tailwind,sass,figma,wordpress&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,git,typescript,react,vite,vercel,nodejs,express,firebase,tailwind,sass,figma,wordpress&perline=8)](https://skillicons.dev)
 & UX/UI design and marketing stuff
