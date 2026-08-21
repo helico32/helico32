@@ -11,3 +11,6 @@
 ## Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,git,typescript,react,vite,vercel,nodejs,express,firebase,tailwind,sass,figma,wordpress&perline=8)](https://skillicons.dev)
 & UX/UI design and marketing stuff
+
+## Want to try out my creations? 
+• [A Pomodoro with cozy artistic breaks (painting + journaling + classical music)](https://chromewebstore.google.com/detail/art-pomodoro/djbebaldkblemldcmkmjckeighmnphdf?hl=en)
