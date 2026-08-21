@@ -13,4 +13,4 @@
 & UX/UI design and marketing stuff
 
 ## Want to try out my creations? 
-• [A Pomodoro with cozy artistic breaks (painting + journaling + classical music)](https://chromewebstore.google.com/detail/art-pomodoro/djbebaldkblemldcmkmjckeighmnphdf?hl=en)
+• [A Pomodoro with cozy artistic breaks](https://chromewebstore.google.com/detail/art-pomodoro/djbebaldkblemldcmkmjckeighmnphdf?hl=en)(painting + journaling + classical music)
